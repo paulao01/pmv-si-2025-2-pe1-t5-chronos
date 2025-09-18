@@ -5,8 +5,7 @@
 `DISCIPLINA: Projeto - Aplicações Web`
 
 `SEMESTRE: 1º`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Com o avanço das tecnologias de informação e comunicação, tornou-se essencial desenvolver soluções que auxiliem na gestão do tempo e na organização das atividades do cotidiano. Nesse cenário, surge a proposta de uma agenda inteligente, um sistema capaz de ir além das agendas digitais tradicionais, integrando recursos de inteligência artificial, notificações automatizadas e sincronização com diferentes dispositivos e serviços.
 
 ## Integrantes
 
