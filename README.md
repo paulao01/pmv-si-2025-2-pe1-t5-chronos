@@ -1,4 +1,4 @@
-# Título do Projeto
+# Agenda Chronos
 
 `CURSO: Sistemas de Informação`
 
@@ -10,16 +10,18 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Lucas Oliveira Muzzi
+* Diogo Hugo Teixeira dos Santos
+* Richard Cauê Tavares Smanhoto
+* Jennifer Eduarda Vieira Daleffi
+* Paulo Henrique Emanuel Caetano Assis
+* Diego Miranda Mangerotti
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Paulo Henrique Emanuel Caetano Assis
+
 
 # Planejamento
 
