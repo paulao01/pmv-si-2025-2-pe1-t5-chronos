@@ -1,42 +1,31 @@
 # Programação de Funcionalidades
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+## ✅ Requisitos Atendidos
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo.
+As tabelas a seguir apresentam os **Requisitos Funcionais** e **Não Funcionais**, relacionando o escopo do projeto com os artefatos criados.
 
-O professor Rommel Carneiro apresenta alguns exemplos prontos para serem utilizados como referência:
-- Login do sistema: [https://repl.it/@rommelpuc/LoginApp](https://repl.it/@rommelpuc/LoginApp) 
-- Cadastro de Contatos: [https://repl.it/@rommelpuc/Cadastro-de-Contatos](https://repl.it/@rommelpuc/Cadastro-de-Contatos)
+### 🔹 Requisitos Funcionais
 
+| ID    | Descrição do Requisito                                                   | Responsável       | Artefato Criado            |
+|-------|--------------------------------------------------------------------------|------------------|-----------------------------|
+| RF-001| Disponibilizar visualização em calendário, lista ou kanban                | Lucas Oliveira   | `calendar.html`, `kanban.js` |
+| RF-002| Permitir o registro, edição e exclusão de notas ou atividades             | Diego Teixeira   | `tasksController.js`, `form.html` |
+| RF-003| Possibilitar a consulta de notas e atividades em dias anteriores e futuros| Richard Smanhoto | `calendar.js`               |
+| RF-004| Possuir um sistema de metas para incentivar o engajamento do usuário      | Jennifer Vieira  | `goals.js`, `progressBar.js` |
+| RF-005| Disponibilizar tela de análise com gráficos de acompanhamento             | Paulo Henrique   | `charts.js`                 |
+| RF-006| Permitir categorização por cores para facilitar a distinção de tarefas    | Diego Miranda    | `categories.js`, `style.css` |
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+---
 
-## Exemplo
+### 🔹 Requisitos Não Funcionais
 
-## Requisitos Atendidos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais que relacionam o escopo do projeto com os artefatos criados:
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito | Responsável | Artefato Criado |
-|------|------------------------|------------|-----------------|
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | João | index.html |
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês | Ana Paula | cadastro-noticia.html |
-
-## Descrição das estruturas:
-
-## Notícia
-|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
-| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
+| ID     | Descrição do Requisito                                                                 | Responsável       | Artefato Criado            |
+|--------|-----------------------------------------------------------------------------------------|------------------|-----------------------------|
+| RNF-001| O funcionamento da aplicação deve depender de conexão com a internet                   | Lucas Oliveira   | Deploy em GitHub Pages/Vercel |
+| RNF-002| A aplicação deve ser hospedada em um servidor na nuvem                                 | Diego Teixeira   | Configuração em Vercel/Netlify |
+| RNF-003| Os dados da aplicação devem ser armazenados na máquina local                           | Richard Smanhoto | `localStorage.js`           |
+| RNF-004| Acessibilidade: interface inclusiva, com contraste adequado e suporte a leitores de tela| Jennifer Vieira  | `style.css` (WCAG 2.1 + ARIA) |
+| RNF-005| Usabilidade: interface intuitiva, permitindo fácil uso sem conhecimento técnico         | Paulo Henrique   | Layout responsivo em `index.html` |
+| RNF-006| Desempenho: sistema responsivo e com carregamento rápido                               | Diego Miranda    | Código otimizado em JS, imagens comprimidas |
+| RNF-007| Disponibilidade: sistema acessível com manutenções programadas                         | Equipe Chronos   | Configuração em ambiente de deploy |
 
