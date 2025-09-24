@@ -10,7 +10,7 @@ Com o avanço das tecnologias de informação e comunicação, tornou-se essenci
 ## Integrantes
 
 * Lucas Oliveira Muzzi
-* Diogo Hugo Teixeira dos Santos
+* Diego Hugo Teixeira dos Santos
 * Richard Cauê Tavares Smanhoto
 * Jennifer Eduarda Vieira Daleffi
 * Paulo Henrique Emanuel Caetano Assis
