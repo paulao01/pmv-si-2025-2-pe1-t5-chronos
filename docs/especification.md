@@ -7,6 +7,7 @@
 | 01  | Estudante Universitário              | Estudantes que lidam com grande volume de tarefas acadêmicas, como leituras, trabalhos, provas e atividades extracurriculares | Ferramenta prática para organizar compromissos acadêmicos, visualizar prazos e planejar o tempo de estudo |
 | 02  | Jovem Profissional em Início de Carreira | Profissionais que precisam equilibrar responsabilidades profissionais com vida pessoal e social | Centralizar tarefas em um único sistema, apoiar definição de prioridades e evitar esquecimentos/atrasos |
 | 03  | Trabalhador Autônomo/Freelancer      | Usuários independentes, com rotinas dinâmicas e diversificadas, alternando entre diferentes tipos de tarefas | Agenda inteligente com personalização, controle de prazos e acompanhamento de metas de curto e longo prazo |
+/h1
 -A aplicação será flexível para atender diferentes perfis de usuários, permitindo
 personalização das funcionalidades, como categorização de atividades, definição de metas
 e visualização adaptada de acordo com as necessidades específicas (estudantes,
