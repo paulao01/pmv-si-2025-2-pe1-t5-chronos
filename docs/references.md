@@ -1,19 +1,19 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizadas no desenvolvimento do trabalho.
+1. Acuity Training (UK) – Pesquisa internacional sobre estatísticas de gestão do tempo.   
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/referencias/)
+-Fonte: Acuity Training – Time Management Statistics & Research   
 
-Exemplos de referências bibliográficas:
+-Dado utilizado: 82% das pessoas não usam um sistema de gestão do tempo estruturado.   
 
-**[1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
+2. Flowlu (plataforma de produtividade) – Compilação de dados sobre procrastinação e produtividade de estudantes.   
 
-**[2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
+-Fonte: Flowlu – Productivity & Time Management Statistics   
 
-**[3]** - _CORMEN, Thomas H. et al. **Algoritmos: teoria e prática**. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996._
+-Dados utilizados: 75% dos estudantes procrastinam regularmente e 58% entregam trabalhos no último dia/prazo.   
 
-**[4]** - _SUTHERLAND, Jeffrey Victor. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. 2. ed. rev. São Paulo, SP: Leya, 2016. 236, [4] p. ISBN 9788544104514._
+3. Publicação científica (Meta-análise, National Library of Medicine / PubMed Central) – Revisão com mais de 50 mil participantes sobre gestão de tempo.   
 
-**[5]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
+-Fonte: The relationship between time management, academic performance and well-being (PMC)   
 
+-Conclusão utilizada: boa gestão do tempo está associada a melhor desempenho acadêmico, profissional e bem-estar.   
