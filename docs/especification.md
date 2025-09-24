@@ -43,14 +43,6 @@
 - **Necessidades:** Categorização por cores, metas de curto e longo prazo e análise visual de progresso  
 
 
-Idade: 32 anos
-
-Perfil: Freelancer de design gráfico
-
-Objetivos: Lidar com múltiplos clientes, prazos curtos e projetos variados.
-
-Necessidades: Sistema de categorização por cores, metas de curto e longo prazo, análise visual de progresso.
-
 
 ## Histórias de Usuários
 
