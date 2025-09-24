@@ -1,91 +1,117 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
-
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
-
+Perfil 1 – Estudante Universitário
+Descrição: Estudantes universitários que lidam com grande volume de tarefas acadêmicas, como
+leituras, trabalhos e provas, além de atividades extracurriculares. Necessidades: Ferramenta
+prática para organizar compromissos acadêmicos, visualizar prazos de entrega e planejar melhor o
+tempo de estudo.
+Perfil 2 – Jovem Profissional
+Descrição: Profissionais em início de carreira que precisam equilibrar responsabilidades
+profissionais com vida pessoal e social. Necessidades: Centralizar tarefas em um único sistema,
+apoiar a definição de prioridades e fornecer recursos de gestão do tempo que evitem
+esquecimentos e atrasos.
+Perfil 3 – Trabalhador Autônomo/Freelancer
+Descrição: Usuários independentes, com rotinas dinâmicas e diversificadas, frequentemente
+alternando entre diferentes tipos de tarefas. Necessidades: Uma agenda inteligente que ofereça
+personalização, controle de prazos e acompanhamento de metas de curto e longo prazo.
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Persona 1 – Pedro Paulo (inspirado no exemplo do professor)
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Idade: 26 anos
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Profissão: Arquiteto recém-formado, autônomo
+
+Objetivos: Deseja se organizar para conciliar rotina profissional e planos de mestrado no exterior.
+
+Necessidades: Uma ferramenta que permita gerenciar compromissos profissionais, estudar idiomas e planejar metas de médio prazo.
+
+Persona 2 – Júlia Martins
+
+Idade: 20 anos
+
+Perfil: Estudante universitária de Engenharia
+
+Objetivos: Conciliar provas, trabalhos em grupo, estágio e atividades extracurriculares.
+
+Necessidades: Visualização clara de prazos, categorização por disciplina, lembretes automáticos.
+
+Persona 3 – Rafael Nunes
+
+Idade: 28 anos
+
+Perfil: Jovem profissional em início de carreira (área de marketing)
+
+Objetivos: Balancear vida profissional intensa com cursos de atualização e vida social.
+
+Necessidades: Centralização de compromissos, notificações, relatórios de desempenho semanal.
+
+Persona 4 – Carla Souza
+
+Idade: 32 anos
+
+Perfil: Freelancer de design gráfico
+
+Objetivos: Lidar com múltiplos clientes, prazos curtos e projetos variados.
+
+Necessidades: Sistema de categorização por cores, metas de curto e longo prazo, análise visual de progresso.
+
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+| Persona              | Quero/Desejo                                                                 | Para/Valor                                                                 |
+|----------------------|-------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| Estudante            | Organizar minhas tarefas diárias                                              | Observar minha eficiência e gerenciar melhor meu tempo                     |
+| Jovem Profissional   | Equilibrar minhas responsabilidades no trabalho                               | Ter maior controle sobre prazos e compromissos                             |
+| Freelancer           | Ter uma ferramenta flexível para traçar objetivos e metas                     | Garantir maior praticidade                                                  |
+| Usuário              | Categorizar atividades e compromissos por cores                               | Identificar facilmente diferentes áreas da minha vida                      |
+|  autônomo            | Receber notificações antes dos meus compromissos                              | Não me atrasar ou esquecer                                                 |
+| Usuário              | Dividir metas em pequenas atividades                                          | Torná-las mais alcançáveis                                                 |
+| Usuário              | Visualizar gráficos de progresso                                              | Manter minha motivação                                                     |
+| Usuário              | Receber resumos semanais do meu desempenho                                    | Refletir sobre minha produtividade                                         |
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | 
-|------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
+
+
+| ID   | Descrição                                                                                                                                                | Prioridade |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RF01 | Disponibilizar uma visualização de calendário, lista ou kanban. *(Embora existam ferramentas como Google Agenda, Trello e Notion, muitas apresentam limitações, como falta de integração, excesso de complexidade ou ausência de recursos de acompanhamento de metas. A Agenda Inteligente Chronos busca oferecer uma alternativa mais centralizada, intuitiva e acessível.)* | Alta       |
+| RF02 | Permitir o registro, edição e exclusão de notas ou atividades                                                                                            | Alta       |
+| RF03 | Possibilitar a consulta de notas e atividades em dias anteriores e futuros                                                                               | Média      |
+| RF04 | Possuir um sistema de metas para incentivar o engajamento do usuário                                                                                     | Alta       |
+| RF05 | Permitir a edição e exclusão de notas e atividades cadastradas                                                                                           | Média      |
+| RF06 | Disponibilizar uma tela de análise com visualizações de acompanhamento de atividade                                                                      | Baixa      |
+| RF07 | Permitir categorização por cores para facilitar a distinção de tarefas                                                                                   | Média      |
+
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+| ID    | Descrição                                                                                                                                                 | Prioridade |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RNF01 | O funcionamento da aplicação deve depender de conexão com a internet                                                                                      | Baixa      |
+| RNF02 | A aplicação deve ser hospedada em um servidor na nuvem, contemplando Front-End                                                                            | Alta       |
+| RNF03 | Os dados da aplicação devem ser armazenados na máquina local                                                                                              | Baixa      |
+| RNF04 | Acessibilidade: interface inclusiva, com contraste adequado e suporte a leitores de tela                                                                  | Média      |
+| RNF05 | Usabilidade: interface intuitiva, permitindo fácil uso sem conhecimento técnico                                                                           | Média      |
+| RNF06 | Desempenho: o sistema deve ser responsivo e possuir tempos de carregamento rápidos, garantindo uma experiência fluida ao usuário durante a navegação       | Alta       |
+| RNF07 | Disponibilidade: o sistema deve permanecer disponível para uso na maior parte do tempo, com manutenções programadas e impacto mínimo para os usuários      | Alta       |
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
+
+## Restrições do Projeto
+
+| ID  | Restrição                                                                 |
+|-----|----------------------------------------------------------------------------|
+| 01  | O projeto deverá ser entregue até o final do semestre letivo               |
+| 02  | O sistema deverá ser desenvolvido apenas com tecnologias web (HTML, CSS, JS e frameworks front-end) |
+| 03  | Não será desenvolvido um módulo de backend próprio, apenas integração com serviços externos se necessário |
+| 04  | O projeto deverá ser hospedado em nuvem gratuita ou de baixo custo         |
+| 05  | A solução deve priorizar acessibilidade e usabilidade, mesmo com recursos limitados |
+****
