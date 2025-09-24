@@ -11,37 +11,38 @@
 
 ## Personas
 
-Persona 1 – Pedro Paulo (inspirado no exemplo do professor)
+## 🎯 Personas
 
-Idade: 26 anos
+### 👤 Persona 1 – Pedro Paulo
+- **Idade:** 26 anos  
+- **Profissão:** Arquiteto recém-formado, autônomo  
+- **Objetivos:** Deseja se organizar para conciliar rotina profissional e planos de mestrado no exterior  
+- **Necessidades:** Ferramenta que permita gerenciar compromissos profissionais, estudar idiomas e planejar metas de médio prazo  
 
-Profissão: Arquiteto recém-formado, autônomo
+---
 
-Objetivos: Deseja se organizar para conciliar rotina profissional e planos de mestrado no exterior.
+### 👤 Persona 2 – Júlia Martins
+- **Idade:** 20 anos  
+- **Perfil:** Estudante universitária de Engenharia  
+- **Objetivos:** Conciliar provas, trabalhos em grupo, estágio e atividades extracurriculares  
+- **Necessidades:** Visualização clara de prazos, categorização por disciplina e lembretes automáticos  
 
-Necessidades: Uma ferramenta que permita gerenciar compromissos profissionais, estudar idiomas e planejar metas de médio prazo.
+---
 
-Persona 2 – Júlia Martins
+### 👤 Persona 3 – Rafael Nunes
+- **Idade:** 28 anos  
+- **Perfil:** Jovem profissional em início de carreira (Marketing)  
+- **Objetivos:** Balancear vida profissional intensa com cursos de atualização e vida social  
+- **Necessidades:** Centralização de compromissos, notificações e relatórios de desempenho semanal  
 
-Idade: 20 anos
+---
 
-Perfil: Estudante universitária de Engenharia
+### 👤 Persona 4 – Carla Souza
+- **Idade:** 32 anos  
+- **Perfil:** Freelancer de Design Gráfico  
+- **Objetivos:** Lidar com múltiplos clientes, prazos curtos e projetos variados  
+- **Necessidades:** Categorização por cores, metas de curto e longo prazo e análise visual de progresso  
 
-Objetivos: Conciliar provas, trabalhos em grupo, estágio e atividades extracurriculares.
-
-Necessidades: Visualização clara de prazos, categorização por disciplina, lembretes automáticos.
-
-Persona 3 – Rafael Nunes
-
-Idade: 28 anos
-
-Perfil: Jovem profissional em início de carreira (área de marketing)
-
-Objetivos: Balancear vida profissional intensa com cursos de atualização e vida social.
-
-Necessidades: Centralização de compromissos, notificações, relatórios de desempenho semanal.
-
-Persona 4 – Carla Souza
 
 Idade: 32 anos
 
