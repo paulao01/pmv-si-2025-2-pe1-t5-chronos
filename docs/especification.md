@@ -1,19 +1,17 @@
 # Especificações do Projeto
 
-Perfil 1 – Estudante Universitário
-Descrição: Estudantes universitários que lidam com grande volume de tarefas acadêmicas, como
-leituras, trabalhos e provas, além de atividades extracurriculares. Necessidades: Ferramenta
-prática para organizar compromissos acadêmicos, visualizar prazos de entrega e planejar melhor o
-tempo de estudo.
-Perfil 2 – Jovem Profissional
-Descrição: Profissionais em início de carreira que precisam equilibrar responsabilidades
-profissionais com vida pessoal e social. Necessidades: Centralizar tarefas em um único sistema,
-apoiar a definição de prioridades e fornecer recursos de gestão do tempo que evitem
-esquecimentos e atrasos.
-Perfil 3 – Trabalhador Autônomo/Freelancer
-Descrição: Usuários independentes, com rotinas dinâmicas e diversificadas, frequentemente
-alternando entre diferentes tipos de tarefas. Necessidades: Uma agenda inteligente que ofereça
-personalização, controle de prazos e acompanhamento de metas de curto e longo prazo.
+## Perfis de Usuários
+
+| ID  | Perfil                               | Descrição                                                                                      | Necessidades                                                                                  |
+|-----|--------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 01  | Estudante Universitário              | Estudantes que lidam com grande volume de tarefas acadêmicas, como leituras, trabalhos, provas e atividades extracurriculares | Ferramenta prática para organizar compromissos acadêmicos, visualizar prazos e planejar o tempo de estudo |
+| 02  | Jovem Profissional em Início de Carreira | Profissionais que precisam equilibrar responsabilidades profissionais com vida pessoal e social | Centralizar tarefas em um único sistema, apoiar definição de prioridades e evitar esquecimentos/atrasos |
+| 03  | Trabalhador Autônomo/Freelancer      | Usuários independentes, com rotinas dinâmicas e diversificadas, alternando entre diferentes tipos de tarefas | Agenda inteligente com personalização, controle de prazos e acompanhamento de metas de curto e longo prazo |
+-A aplicação será flexível para atender diferentes perfis de usuários, permitindo
+personalização das funcionalidades, como categorização de atividades, definição de metas
+e visualização adaptada de acordo com as necessidades específicas (estudantes,
+profissionais ou autônomos).
+
 ## Personas
 
 Persona 1 – Pedro Paulo (inspirado no exemplo do professor)
