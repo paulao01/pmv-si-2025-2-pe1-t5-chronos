@@ -11,7 +11,6 @@
 
 ## Personas
 
-## 🎯 Personas
 
 ### 👤 Persona 1 – Pedro Paulo
 - **Idade:** 26 anos  
