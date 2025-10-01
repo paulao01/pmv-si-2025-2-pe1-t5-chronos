@@ -10,9 +10,12 @@ equilíbrio entre responsabilidades pessoais, acadêmicas e profissionais.
 
 ## Problema
 
-A gestão de tarefas e compromissos diários representa um desafio comum que impacta diretamente a produtividade e a organização pessoal. A ausência de um sistema centralizado para planejar e monitorar atividades gera perda de prazos, esquecimentos e sobrecarga de trabalho. Esse cenário evidencia a necessidade de uma solução tecnológica eficiente, capaz de otimizar o gerenciamento de tempo e priorizar atividades de forma clara e acessível.    
-
-   
+A gestão de tarefas e compromissos diários representa um desafio comum que impacta
+diretamente a produtividade e a organização pessoal. A ausência de um sistema
+centralizado para planejar e monitorar atividades gera perda de prazos, esquecimentos e
+sobrecarga de trabalho. Esse cenário evidencia a necessidade de uma solução tecnológica
+eficiente, capaz de otimizar o gerenciamento de tempo e priorizar atividades de forma clara
+e acessível. 
 
 ## Objetivos
 

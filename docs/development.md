@@ -6,26 +6,26 @@ As tabelas a seguir apresentam os **Requisitos Funcionais** e **Não Funcionais*
 
 ### 🔹 Requisitos Funcionais
 
-| ID    | Descrição do Requisito                                                   | Responsável       | Artefato Criado            |
-|-------|--------------------------------------------------------------------------|------------------|-----------------------------|
-| RF-001| Disponibilizar visualização em calendário, lista ou kanban                | Lucas Oliveira   | `calendar.html`, `kanban.js` |
-| RF-002| Permitir o registro, edição e exclusão de notas ou atividades             | Diego Teixeira   | `tasksController.js`, `form.html` |
-| RF-003| Possibilitar a consulta de notas e atividades em dias anteriores e futuros| Richard Smanhoto | `calendar.js`               |
-| RF-004| Possuir um sistema de metas para incentivar o engajamento do usuário      | Jennifer Vieira  | `goals.js`, `progressBar.js` |
-| RF-005| Disponibilizar tela de análise com gráficos de acompanhamento             | Paulo Henrique   | `charts.js`                 |
-| RF-006| Permitir categorização por cores para facilitar a distinção de tarefas    | Diego Miranda    | `categories.js`, `style.css` |
+|ID    | Descrição do Requisito  | Prioridade | 
+|------|-----------------------------------------|----| 
+ | RF-01 | Disponibilizar uma visualização de calendário ou lista ou kanban. Ainda que existam ferramentas como Google Agenda| Alta | 
+ | RF-02 | Permitir o registro, edição e exclusão de notas ou atividades. | Alta | 
+ | RF-03 | Possibilitar a consulta de notas e atividades em dias anteriores e futuros.  | Alta | 
+ | RF-04 | Possuir um sistema de metas, para incentivar o engajamento do usuário  | Média | 
+ | RF-05 |Permitir a edição e exclusão de notas e atividades cadastradas.  | Média | 
+ | RF-06 | Disponibilizar uma tela de análise com visualizações de acompanhamento de atividade. | Média |
 
 ---
 
 ### 🔹 Requisitos Não Funcionais
 
-| ID     | Descrição do Requisito                                                                 | Responsável       | Artefato Criado            |
-|--------|-----------------------------------------------------------------------------------------|------------------|-----------------------------|
-| RNF-001| O funcionamento da aplicação deve depender de conexão com a internet                   | Lucas Oliveira   | Deploy em GitHub Pages/Vercel |
-| RNF-002| A aplicação deve ser hospedada em um servidor na nuvem                                 | Diego Teixeira   | Configuração em Vercel/Netlify |
-| RNF-003| Os dados da aplicação devem ser armazenados na máquina local                           | Richard Smanhoto | `localStorage.js`           |
-| RNF-004| Acessibilidade: interface inclusiva, com contraste adequado e suporte a leitores de tela| Jennifer Vieira  | `style.css` (WCAG 2.1 + ARIA) |
-| RNF-005| Usabilidade: interface intuitiva, permitindo fácil uso sem conhecimento técnico         | Paulo Henrique   | Layout responsivo em `index.html` |
-| RNF-006| Desempenho: sistema responsivo e com carregamento rápido                               | Diego Miranda    | Código otimizado em JS, imagens comprimidas |
-| RNF-007| Disponibilidade: sistema acessível com manutenções programadas                         | Equipe Chronos   | Configuração em ambiente de deploy |
+|ID    | Descrição do Requisito  | Prioridade | 
+|------|-----------------------------------------|----| 
+ | RF-01 | O funcionamento da aplicação deve depender de conexão com a internet. | Baixa | 
+ | RF-02 | A aplicação deve ser hospedada em um servidor na nuvem, contemplando Front-End. | Alta | 
+ | RF-03 | Os dados da aplicação devem ser armazenados na máquina local  | Baixa | 
+ | RF-04 | Acessibilidade: interface inclusiva, com contraste adequado e suporte a leitores de tela.  | Alta | 
+ | RF-05 |Usabilidade: interface intuitiva, permitindo fácil uso sem conhecimento técnico.  | Alta | 
+ | RF-06 | Desempenho - O sistema e responsivo e possui tempos de carregamento rápidos, garantindo uma experiência fluida ao usuário durante a navegação | Média |
+ | RF-07 | Disponibilidade – O sistema deve permanecer disponível para uso na maior parte do tempo, minimizando períodos de indisponibilidade. As manutenções necessárias devem ser previamente programadas e executadas de forma a reduzir ao máximo o impacto para os usuários | Alta |
 

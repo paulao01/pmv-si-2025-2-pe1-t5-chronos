@@ -11,15 +11,12 @@ Com o avanço das tecnologias de informação e comunicação, tornou-se essenci
 
 * Lucas Oliveira Muzzi
 * Diego Hugo Teixeira dos Santos
-* Richard Cauê Tavares Smanhoto
-* Jennifer Eduarda Vieira Daleffi
 * Paulo Henrique Emanuel Caetano Assis
-* Diego Miranda Mangerotti
 
 
 ## Orientador
 
-* Paulo Henrique Emanuel Caetano Assis
+* Alisson Rabelo Arantes
 
 
 # Planejamento
